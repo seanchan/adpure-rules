@@ -1,0 +1,49 @@
+# AdPure default whitelist
+# Notes:
+# - Domain matching in URL Filter is currently exact mode.
+# - Add one domain per line; lines starting with # are comments.
+
+# Apple connectivity / account
+apple.com
+aaplimg.com
+appleid.apple.com
+api.apple-cloudkit.com
+configuration.apple.com
+gdmf.apple.com
+gdmf-ados.v.aaplimg.com
+gs.apple.com
+init.itunes.apple.com
+itunes.apple.com
+mesu.apple.com
+ocsp.apple.com
+ocsp2.apple.com
+push.apple.com
+gateway.push.apple.com
+courier.push.apple.com
+time.apple.com
+
+# iCloud / sync essentials
+icloud.com
+api.icloud.com
+setup.icloud.com
+mask.icloud.com
+
+# Major platform essentials
+google.com
+gstatic.com
+googleapis.com
+googleusercontent.com
+qq.com
+weixin.qq.com
+weixin.com
+alicdn.com
+aliyun.com
+taobao.com
+tmall.com
+jd.com
+bilibili.com
+
+# Captive portal / network checks
+captive.apple.com
+connectivitycheck.gstatic.com
+www.msftconnecttest.com
